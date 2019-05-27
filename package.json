@@ -16,7 +16,8 @@
     "parserOptions": {
       "ecmaVersion": 2019
     }
-  },  "devDependencies": {
+  },
+  "devDependencies": {
     "eslint": "^5.16.0"
   }
 }
