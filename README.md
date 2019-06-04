@@ -1,1 +1,1 @@
-# society
+# basic node template
